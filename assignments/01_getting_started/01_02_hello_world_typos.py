@@ -1,4 +1,17 @@
-print(hello world)
+# Example 1: Missing quotation marks (this will cause an error) 
+# print("Hello world")
 
+# Correct vesion:
+# print("Hello world")
 
-#The error is there is no quotes in (hello world). It correct form is ("hello world"). 
+# Example 2: Missing parentheses (this will cause an error)
+# print "Hello world"
+
+# Correct version:
+# print("Hello world")
+
+# Example 3: Misspelled function name (this will cause an error)
+# prnt("Hello world")
+
+# Correct version:
+# print("Hello world")
