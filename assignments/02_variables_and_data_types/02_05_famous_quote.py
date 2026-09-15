@@ -2,5 +2,5 @@
 # Chapter 2
 
 famous_person = "Colin Powell"
-quote = "Sucess is the result of perfection, hard work, learning from failure, loyalty, and persistence."
-print(f'{famous_person} once said, "{quote}"')
+quote = f'"{famous_person} once said, "There are no secrets to success. It is the result of preparation, hard work, and learning from failure.""'
+print(quote)
