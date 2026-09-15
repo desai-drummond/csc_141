@@ -8,6 +8,7 @@ let's do greetings
 '''
 
 
+
 names = ["Desai", "Colton", "Kaul", "Marcello"]
 print(f"Hello {names[0]}, Desai how are you?")
 print(f"Hello {names[1]}, Greetings Colton how are you feeling?")
