@@ -1,7 +1,7 @@
 # Desai Drummond
 # Chapter 3
 
-places = ["Paris", "Dubai", "New York City", "Sydney", "Rio de Janeiro"]
+guests = ["Kevin Durant", "Michael Jordan", "Kobe Bryant", "Lebron James", "Stephen Curry", "Giannis Antetokounmpo"]
 
 # Original order
 print(places)
